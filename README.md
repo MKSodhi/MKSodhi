@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CC+Student.;My+Skills:+Python,+SQL,+Azure,;Power+BI.;Focus+on:;Data+Analyses,+Machine+Learning,+and;Data+Engineering.)](https://git.io/typing-svg)
 
-🔭 I’m currently working on finding a internship<br>
+🔭 I’m currently ABL Brazil AIM intern<br>
 👨‍💻 Studied Computer Science at Universidade Veiga de Almeida, Brazil<br>
 📚 I’m currently learning Databricks, and Spark<br>
 
